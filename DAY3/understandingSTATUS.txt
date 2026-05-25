@@ -1,0 +1,6 @@
+git status
+
+git status -v   ->detailed information about status(v -verbose)
+
+git status -s  --> short inforation (one line)
+
