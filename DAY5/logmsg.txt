@@ -1,4 +1,4 @@
-learnt all the log command
+learnt all the log commands
 
    what is log (which shows all the commits done)
   
