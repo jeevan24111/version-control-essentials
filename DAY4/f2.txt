@@ -1,3 +1,4 @@
 this is f2 file of day4 in git
 
 
+modified here and learnt ammend command 
