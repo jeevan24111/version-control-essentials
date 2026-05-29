@@ -2,3 +2,8 @@ this is line 1
 
 this is line 2
 
+completed soft ,mixed and hard commands using git reset
+git reset --soft commit id ->moves files to staging area
+git reset --mixed commit id->moves files to non staging area and content is not discarded in both soft and mixed
+
+git reset --hard delete the commits and delete the changes .if i want those chnages again i have to write it again"
